@@ -69,6 +69,8 @@ html {
     padding: 20px;
     font-size: 1.5rem;
     border-radius: 4px;
+    overflow: auto;
+    max-height: 340px;
 }
 
 #first-part, #second-part {
@@ -86,7 +88,6 @@ html {
     border-radius: 4px;
     overflow: auto;
     max-height: 340px;
-    border-radius: 4px;
 }
 
 #content-quote {
