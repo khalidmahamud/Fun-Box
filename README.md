@@ -1,4 +1,4 @@
-# Frontend Mentor - Single price grid component solution
+# FUN-BOX
 
 This is a personal project. 
 I got the inspiration for this project from [Zack Gollwitzer HTML and JS challange](https://codepen.io/zg_dev/pen/abBzvXv).
@@ -40,6 +40,12 @@ Users should be able to:
 - JavaScript
 - Flexbox
 
+ ### Api Used
+
+- meme: https://api.imgflip.com/get_memes  
+- joke: https://v2.jokeapi.dev/joke/Any  
+- quote: https://api.quotable.io/random  
+- riddle: https://riddles-api.vercel.app/random  
 
 
 
