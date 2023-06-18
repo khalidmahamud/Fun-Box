@@ -52,6 +52,7 @@ html {
     max-width: 450px;
     height: 350px;
     padding: 5px;
+    font-family: 'Roboto Slab', serif;
 }
 
 #content-img {
