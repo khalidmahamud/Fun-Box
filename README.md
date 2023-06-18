@@ -10,6 +10,7 @@ I got the inspiration for this project from [Zack Gollwitzer HTML and JS challan
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
+  - [API used](#api-used)
 
 
 ## Overview
